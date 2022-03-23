@@ -1,0 +1,3 @@
+[submodule "Practice_thread_safe_Queue"]
+	path = Practice_thread_safe_Queue
+	url = https://github.com/DanHutsul/Practice_thread_safe_Queue
